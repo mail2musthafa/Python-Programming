@@ -52,3 +52,22 @@ print("type of number is :",type(num1))
 g = raw_input("Enter your name : ") 
 print g    
 #--------------------------------
+# accepting the inputs from user
+#input
+input1= input()
+#output
+print(input1)
+#------------------------
+# typcastig the input to intigear
+num1 = int(input("please enter value \n"))
+num1 = float(input("enter the value \n"))
+num1 = str(input("please enter the string value"))
+#----------------------------------
+
+
+
+
+
+
+print(type(num1))
+
