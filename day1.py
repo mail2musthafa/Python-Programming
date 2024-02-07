@@ -1,11 +1,20 @@
-print("welcome to the Python Programming!😍")
-# Introduction to python 
-# Pdthon is a widely used progrmming  general purpose programming language 
-# this entire refernce code is took from greek forgeek all credits goed to geek for geeks
-
-# writing first  first program ?
-print("this is our first prunt function !lets strt writing some mpre ")
-
-# is hash pthon interpreter  ignore this if start with #
-#print is work to print somthing usnig built in function 
-#called print(" in qouts ")
+print("welcome!!")
+#--------------------------------------
+def getInteger(): 
+    result = int(input("Enter integer: ")) 
+    return result 
+  
+def Main(): 
+    print("Started") 
+  
+    # calling the getInteger function and  
+    # storing its returned value in the output variable 
+    output = getInteger()      
+    print(output) 
+  
+# now we are required to tell Python  
+# for 'Main' function existence 
+if __name__=="__main__": 
+    Main() 
+  #------------------------------  
+     
