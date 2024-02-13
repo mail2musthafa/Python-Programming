@@ -63,14 +63,4 @@ num1 = int(input("please enter value \n"))
 num1 = float(input("enter the value \n"))
 num1 = str(input("please enter the string value"))
 #----------------------------------
- 
-#taqking the mmultiple inputs  isimng ṭh
-# e using split method 
-#accept multi[ler multple inputys usingh the usomng the
-#]
-#sploit functions x,y
-
-
-
-print(type(num1))
-
+print("welcome!")
