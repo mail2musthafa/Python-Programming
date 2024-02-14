@@ -18,5 +18,9 @@
 file = open('test.txt','r')
 for item in file:
     print(item)
-
-    
+#------------------------------------------------
+file = open("insurance.csv",'r')
+for i in file:
+    print(i)    
+#------------------------------------------------
+         
