@@ -1,0 +1,1 @@
+welcome to the file write operation this allows us to  write in perticuler file 
